@@ -13,7 +13,7 @@ const About= () => {
             <div class="row">
                 <div class="col-md-3 sidenav">
                      <div class="image">
-                         <img src=![](./images/kj.jpg)" alt="karishma" class="contact_image" />
+                         <img src=![](./kj.jpg)" alt="karishma" class="contact_image" />
                      </div>
                 </div>
                  <div class="col-md-9 about_text">
