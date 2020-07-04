@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter , Route , Switch} from 'react-router-dom';
+import {BrowserRouter , HashRouter,Route , Switch} from 'react-router-dom';
 import './App.css';
 import Menu from './Menu.js';
 import Contact from './Contact.js';
@@ -8,7 +8,7 @@ import Home from './Home.js';
 
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
     <div className="main_img">
      <Menu/>
      <Switch>
@@ -17,7 +17,7 @@ function App() {
      <Route path="/contact"  component ={Contact} />
      </Switch>
     </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
