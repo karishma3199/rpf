@@ -23,7 +23,7 @@ ul li{display:inline-block;}
     text-align: right;
   }
   .header_text{padding-left: 4%;}
-.main_img{background-size: cover;background-image: url('../images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
+.main_img{background-size: cover;background-image: url('images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
 .name{text-align: center;font-size:30px ;padding-top:135px;position: static; color: antiquewhite;font-weight: bold;}    
 .name span{color: orange;}
 .main_img p{color:white ; text-align:center;font-size:15p ;padding:0 2% 0 2% }
@@ -62,7 +62,7 @@ ul li{display:inline-block;}
     text-align: center;
   }
   .header_text{padding-left: 4%;}
-.main_img{background-size: cover;background-image: url('../images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
+.main_img{background-size: cover;background-image: url('images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
 .name{text-align: center;font-size:40px ;padding-top:135px;position: static; color: antiquewhite;font-weight: bold;}    
 .name span{color: orange;}
 .main_img p{color:white ; text-align:center;font-size:15p ;padding:0 2% 0 2% }
@@ -102,7 +102,7 @@ ul li{display:inline-block;}
     text-align: right;
   }
   
-.main_img{background-size: cover;background-image: url('../images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
+.main_img{background-size: cover;background-image: url('images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
 .name{text-align: center;font-size:40px ;padding-top:135px;position: static; color: antiquewhite;font-weight: bold;}    
 .name span{color: orange;}
 .main_img p{color:white ; text-align:center;font-size:18px ;padding:0 2% 0 2%; }
@@ -144,7 +144,7 @@ ul li{display:inline-block;}
     text-align: right;
   }
 
-.main_img{background-size: cover;background-image: url('../images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
+.main_img{background-size: cover;background-image: url('images/dice.jpg'); background-position: center  ;background-attachment: fixed;background-repeat: no-repeat;height: 625px;}
 .name{text-align: center;font-size:50px ;padding-top:135px;position: static; color: antiquewhite;font-weight: bold;}    
 .name span{color: orange;}
 .main_img p{color:white ; text-align:center;font-size:20px  ; }
