@@ -1,7 +1,7 @@
 {
   "name": "rpf",
   "version": "0.1.0",
-  "homepage": "https://karishma3199.github.io/karishma3199.github.io",
+  "homepage":"https://karishma3199.github.io/rpf/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
@@ -9,7 +9,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
     "@fortawesome/react-fontawesome": "^0.1.11",
     "@testing-library/jest-dom": "^4.2.4",
-    "@testing-library/react": "^9.5.0",
+    "@testing-library/react": "^9.5.0", 
     "@testing-library/user-event": "^7.2.1",
     "bootstrap": "^4.5.0",
     "gh-pages": "^3.1.0",
@@ -23,8 +23,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
